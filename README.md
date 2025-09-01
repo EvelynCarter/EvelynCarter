@@ -82,8 +82,3 @@
   <img src="https://github-profile-trophy.vercel.app/?username=evelyncarter&theme=radical&no-frame=true&row=1&column=6" alt="Achievements" />
 </p>
 
-## 📊 每周编码时间
-
-<!--START_SECTION:waka-->
-```text
-No activity tracked
