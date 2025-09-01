@@ -15,20 +15,13 @@
   </picture>
 
   <!-- for beauty 留个空行好看点 -->
-  <div>&nbsp;</div>
+<div>&nbsp;</div>
+
+
 ![Evelyn Carter 的 GitHub 统计数据](https://github-readme-stats.vercel.app/api?username=EvelynCarter&show_icons=true&theme=radical)
+
 ![最常用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=EvelynCarter&layout=compact&theme=radical)
 
-## 👩‍💻 关于我
-
-我是一名充满热情的软件开发工程师，热爱探索新技术和解决复杂问题。在我的编程旅程中，我专注于创建高效、可维护且用户友好的解决方案。
-
-- 🔭 **目前正在**：开发一个全栈Web应用，使用React和Node.js
-- 🌱 **正在学习**：云原生技术和微服务架构
-- 👯 **希望合作**：开源项目，特别是与教育科技和可持续发展相关的项目
-- 🤔 **寻求帮助**：优化大规模数据处理的性能
-- 💬 **欢迎咨询**：前端框架、API设计和数据库优化相关话题
-- ⚡ **趣事**：我可以用三种语言编程，也会说三种人类语言！
 
 ## 🛠️ 技术栈
 
